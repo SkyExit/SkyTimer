@@ -1,0 +1,8 @@
+name: SkyTimer
+version: '${project.version}'
+main: de.laurinhummel.skytimer.SkyTimer
+api-version: '1.18'
+
+commands:
+  timer:
+    description: manages the timer
